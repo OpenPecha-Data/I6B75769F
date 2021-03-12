@@ -5,11 +5,12 @@ source_metadata:
   title: ཤུག་གསེབ་བཙུན་མའི་དགོན་གྱི་གཅོད་རྟའི་འབྱུང་ཁམས་དང་རྣམ་པར་དཔྱད་པ།
   author: ''
   volumes:
-    09f0be076009404cb6478b741eb0d666:
+    f5232b044e874523a97a401174c5e4cf:
       image_group_id: I8LS19134
-      title: ''
+      title: Volume 1 of gcod rta/
       volume_number: 1
       total_pages: 266
+      base_file: v001.txt
 ebook_metadata:
   title: ཤུག་གསེབ་བཙུན་མའི་དགོན་གྱི་གཅོད་རྟའི་འབྱུང་ཁམས་དང་རྣམ་པར་དཔྱད་པ།
   author: ''
